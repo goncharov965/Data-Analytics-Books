@@ -1,4 +1,4 @@
-Hi, I`m Yevhen and it`s my Data Analytics library.
+Hi, I'm Yevhen and it's my Data Analytics library.
 
 Here you can find books and my summaries(in future) about Python, Analysis, AI and more. 
 
